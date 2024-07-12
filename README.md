@@ -1,6 +1,6 @@
 # Hi there, my name is Afonso Barracha 👋
 
-![me](https://avatars.githubusercontent.com/u/64930104?s=400&u=ad9f63e8e221dbe71bf23de59e3611c99cda1181&v=4)
+![me](me.jpg)
 
 ## About Me
 
