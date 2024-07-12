@@ -1,6 +1,6 @@
 # Hi there, my name is Afonso Barracha 👋
 
-<img src="me.jpg" width="300">
+<img src="me.jpg" width="300" />
 
 
 ## About Me
