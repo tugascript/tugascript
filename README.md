@@ -1,10 +1,11 @@
 # Hi there, my name is Afonso Barracha 👋
 
-![me](me.jpg)
+<img src="me.jpg" width="350" />
+
 
 ## About Me
 
-I'm a Senior Software Engineer based in New Zealand focusing on back-end and data engineering. I'm an avid Rustaceane 🦀 and TypeScript wizard 🧙‍♂️, but I like to take peeks into the Gophers 🌑 caves from time to time. Coming from econometrics, I also have extensive Python 🐍 knowledge.
+I'm a Senior Software Engineer based in New Zealand 🇳🇿 focusing on back-end and data engineering. I'm an avid Rustaceane 🦀 and TypeScript wizard 🧙‍♂️, but I like to take peeks into the Gophers 🌑 caves from time to time. Coming from econometrics, I also have extensive Python 🐍 knowledge.
 
 ## 🛠️ Technologies & Tools
 
